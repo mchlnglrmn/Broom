@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Broom!.data.unityweb",
+"asmCodeUrl": "Broom!.asm.code.unityweb",
+"asmMemoryUrl": "Broom!.asm.memory.unityweb",
+"asmFrameworkUrl": "Broom!.asm.framework.unityweb",
+"backgroundUrl": "Broom!.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
